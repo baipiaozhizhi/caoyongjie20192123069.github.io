@@ -7,7 +7,7 @@
 点击右上角sign up进行注册
 填写用户名注册邮箱和密码
 
-![捕获3](https://user-images.githubusercontent.com/94816263/142984313-a2b4d759-4967-4c0b-b2c1-646dd0d366ab.PNG)
+![图片](https://user-images.githubusercontent.com/94736619/142991630-7f63840f-33d3-4f22-8d8a-0825b3ad84ab.png)
 
 ![捕获2](https://user-images.githubusercontent.com/94816263/142983880-355bc6a9-f2f3-4de3-a340-9fcde68481ef.PNG)
 
@@ -17,7 +17,6 @@
 
 **密码:至少7个字符,它会提示你安全程度,越复杂越安全,但前提要记得住!!**
 
-![4](https://user-images.githubusercontent.com/94816263/142983925-af0191fe-fdfe-42ab-a8d6-dc885a21100a.PNG)
 
 
 注册完成后会提示你验证邮箱,登录你的邮箱以后查看验证码,填写验证码完成验证.
