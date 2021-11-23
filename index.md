@@ -27,33 +27,33 @@
 
 ***2.开始建库***
 
-点击左边上方绿色的new符号
+点击左边上方➕号的newrepository选项
 
-![5](https://user-images.githubusercontent.com/94816263/142983994-730ce112-6ba6-40db-aff6-35964115fe38.PNG)
+![图片](https://user-images.githubusercontent.com/94736619/142989304-5bce8b55-f4fd-4c68-8082-33504df2082b.png)
 
 
 弹出create repository 这个界面,创建名字,接着选择public(公开的)或者private(私人的),最后点击最下方的create repository,就完成建仓库啦!
 
-![6](https://user-images.githubusercontent.com/94816263/142984061-b3dace41-5d1a-4c0d-8336-92b297da7b61.PNG)
+![图片](https://user-images.githubusercontent.com/94736619/142989783-2f8b05a0-000e-4fe7-8946-9fa8eb4bd2f0.png)
 
 
 ***3.仓库的文件上传***
 
 新建一个仓库,和上面那个步骤一样.创建完以后,显示这个界面
 
-![6](https://user-images.githubusercontent.com/94816263/142984121-7d3d863a-d05f-4f4b-a666-81b6146bd335.PNG)
+![图片](https://user-images.githubusercontent.com/94736619/142989935-36deeb89-2b40-48fb-bd01-3ef280bc71bf.png)
 
 
 点击第二行的README按钮,然后什么都不用填,点击最下面的commit new file
 
-![7](https://user-images.githubusercontent.com/94816263/142984147-fac0ce82-a439-4f8a-9501-f678485ee634.PNG)
-![8](https://user-images.githubusercontent.com/94816263/142984181-f9ac2830-9d8a-4003-8fd9-874bf3c30c78.PNG)
+![图片](https://user-images.githubusercontent.com/94736619/142990262-7a552254-db65-4770-b381-6433ebd1a2b9.png)
+![图片](https://user-images.githubusercontent.com/94816263/142984181-f9ac2830-9d8a-4003-8fd9-874bf3c30c78.PNG)
 
 
 然后点击add file,选择upload file.
 
-![9](https://user-images.githubusercontent.com/94816263/142984232-302bb7c9-24e3-4598-8fb1-7d61484cde15.PNG)
-![10](https://user-images.githubusercontent.com/94816263/142984245-5bedc751-a993-4658-b99d-58dedeac8a18.PNG)
+![图片](https://user-images.githubusercontent.com/94736619/142990628-6d6ffee1-070e-4b79-831e-9b62971d2b9d.png)
+![图片](https://user-images.githubusercontent.com/94736619/142990696-79b5f26e-262d-4e52-9413-120d2feb42aa.png)
 
 
 选择choose your files就可以上传图片等文件,最后点击commit changes就完成上传了.
